@@ -30,7 +30,12 @@ Decodelabs-Python-internship-Anushka/
 │   ├── README.md
 │   ├── project2-img1.png
 │   ├── project2-img2.png
-│   └── project2-img3.png
+|
+|--Project3/
+|   |--project3-password-generator.py
+|   |--README.md
+|   |--project3-img1.png
+
 ```
 
 ---
